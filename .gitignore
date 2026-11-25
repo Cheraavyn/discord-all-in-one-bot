@@ -1,0 +1,23 @@
+# Dependency
+node_modules/
+
+# Rahasia & konfigurasi lokal
+.env
+.env.local
+
+# Data runtime bot (setting server, dsb)
+data/
+
+# Log
+*.log
+logs/
+
+# Cookies YouTube (rahasia, jangan pernah di-commit)
+cookies*.txt
+yt-cookies*.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
